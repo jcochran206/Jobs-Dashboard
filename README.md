@@ -1,7 +1,8 @@
 # Jobs Dashboard 
 
 ## Description
-
+This application enables users to manage job postings, track application statuses, identify successful submissions, and leverage AI to craft resumes, tailor cover letters, and receive strategic job search guidance. 
+   
 ## Technologies used / Libraries
 - Frontend: HTML, CSS, JS, React, 
 - Backend: Firebase
