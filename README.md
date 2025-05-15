@@ -15,6 +15,7 @@ This application enables users to manage job postings, track application statuse
 - [] -  Analytics Dashboard 
     - [] Tracks success rate
     - [] most applied roles 
+    - [] Heatmap of locations 
   
 ## Author
 Jonathan Cochran
